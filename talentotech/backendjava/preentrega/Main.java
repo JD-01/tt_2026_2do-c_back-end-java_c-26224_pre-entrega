@@ -11,8 +11,6 @@
 
 package talentotech.backendjava.preentrega;
 //
-//import java.util.Scanner;
-//
 import talentotech.backendjava.preentrega.controlador.ControladorMain;
 //
 public class Main
