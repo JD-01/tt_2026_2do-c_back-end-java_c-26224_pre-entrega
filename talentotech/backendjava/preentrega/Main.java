@@ -1,12 +1,12 @@
 /**
- * ============================= #
- * Talento Tech                  #
- * Back-End Java                 #
- * 2026 - 2do Cuatrimestre       #
- * Comisión: 26224               #
- * ----------------------------- #
- * Pre-Entrega de Proyecto       #
- * ============================= #
+ * # ============================= #
+ * #  Talento Tech                 #
+ * #  Back-End Java                #
+ * #  2026 - 2do Cuatrimestre      #
+ * #  Comisión: 26224              #
+ * # ----------------------------- #
+ * #  Pre-Entrega de Proyecto      #
+ * # ============================= #
 */
 
 package talentotech.backendjava.preentrega;
